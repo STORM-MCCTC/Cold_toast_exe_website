@@ -1,0 +1,48 @@
+body {
+    background-image: url('Untitled.jpg');
+    color: white;
+    text-align: center;
+}
+
+.about {
+    background: rgb(223,0,182);
+    background: linear-gradient(180deg, rgba(223,0,182,1) 0%, rgba(253,45,89,1) 100%);
+    border-style: solid;
+    border-color: white;
+    border-radius: 5px;
+    border-width: 3px;
+    margin-left: 500px;
+    margin-right: 500px;
+}
+
+button {
+    width: 300px;
+    height: 100px;
+    font-size: 2rem;
+    font-weight: bold;
+    background: rgb(223,0,182);
+    background: linear-gradient(180deg, rgba(223,0,182,1) 0%, rgba(253,45,89,1) 100%);
+    border-color: white;
+    border-radius: 5px;
+    border-width: 3px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+h1 {
+    font-size: 3rem;
+    font-weight: bold;
+}
+
+h2 {
+    font-weight: bold;
+}
+
+.pfp {
+    background: rgb(223,0,182);
+    background: linear-gradient(180deg, rgba(223,0,182,1) 0%, rgba(253,45,89,1) 100%);
+    border-style: solid;
+    border-color: white;
+    border-radius: 15px;
+    border-width: 3px;
+}
